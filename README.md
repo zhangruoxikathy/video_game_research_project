@@ -32,7 +32,7 @@
   
 
 ### Introduction
-Microsoft's acquisition of Activision Blizzard (Nasdaq: ATVI), a prominent publisher known for multi-billion-dollar video game franchises like Call of Duty, represents a historic moment in the industry with a transaction value of $69 billion. This move, marking the largest acquisition in video game history, positions Microsoft to become the third-largest gaming company globally by revenue. This paper examines the strategic rationale and financial justification behind Microsoft's acquisition, particularly considering the high price tag. We conduct comparative financial analyses, and delve into industry trends to evaluate Activision Blizzard(ATVI)'s alignment with industry potentials and Microsoft's strategic goals, with Python-based research method detailed in this write-up.
+Microsoft's acquisition of Activision Blizzard (Nasdaq: ATVI), a prominent publisher known for multi-billion-dollar video game franchises like Call of Duty, represents a historic moment in the industry with a transaction value of $69 billion. This move, marking the largest acquisition in video game history, positions Microsoft to become the third-largest gaming company globally by revenue. This paper examines the strategic rationale and financial justification behind Microsoft's acquisition, particularly considering the high price tag. We conduct comparative financial analysis, and delve into industry trends to evaluate Activision Blizzard(ATVI)'s alignment with industry potentials and Microsoft's strategic goals, with Python-based research method detailed in this write-up.
 
 ### Data Retrieval & Cleaning
 
