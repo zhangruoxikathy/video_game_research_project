@@ -1,5 +1,5 @@
-# Final Project: Leveling up: A Deep Dive into Microsoft’s Historical $69B Gaming Move
-## PPHA 30538 Data and Programming for Public Policy II - Python Programming Autumn 2023
+# Leveling up: A Deep Dive into Microsoft’s Historical $69B Gaming Move
+![Image of acquisition](https://techent.tv/wp-content/uploads/2022/12/image.png)
 ``
 ## Group Members:
 - Kathy Zhang: zhangruoxikathy
