@@ -1,0 +1,41 @@
+\documentclass{report}
+\usepackage{booktabs}
+\usepackage[margin=1in, left=0.5in]{geometry}
+\begin{document}\section*{Regression 2, Number of Players for a Game on Game Ratings, Sentiment, for Game Published2005-2023}\bigskip
+\subsection*{INDEPENDENT VARIABLE Number of players for a game}\bigskip
+\subsection*{REGRESSORS Game rating out of 5, sentimental score on reviews, Activision Blizzard indicator}\bigskip
+\begin{center}
+\begin{tabular}{lclc}
+\toprule
+\textbf{Dep. Variable:}    &  N\_of\_players  & \textbf{  R-squared:         } &     0.052   \\
+\textbf{Model:}            &       OLS        & \textbf{  Adj. R-squared:    } &     0.049   \\
+\textbf{Method:}           &  Least Squares   & \textbf{  F-statistic:       } &     15.40   \\
+\textbf{Date:}             & Tue, 05 Dec 2023 & \textbf{  Prob (F-statistic):} &  9.26e-10   \\
+\textbf{Time:}             &     18:51:54     & \textbf{  Log-Likelihood:    } &   -8550.1   \\
+\textbf{No. Observations:} &         841      & \textbf{  AIC:               } & 1.711e+04   \\
+\textbf{Df Residuals:}     &         837      & \textbf{  BIC:               } & 1.713e+04   \\
+\textbf{Df Model:}         &           3      & \textbf{                     } &             \\
+\textbf{Covariance Type:}  &    nonrobust     & \textbf{                     } &             \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lcccccc}
+                           & \textbf{coef} & \textbf{std err} & \textbf{t} & \textbf{P$> |$t$|$} & \textbf{[0.025} & \textbf{0.975]}  \\
+\midrule
+\textbf{const}             &   -3012.5427  &     1563.166     &    -1.927  &         0.054        &    -6080.729    &       55.644     \\
+\textbf{Rating}            &    2873.7367  &      425.369     &     6.756  &         0.000        &     2038.821    &     3708.652     \\
+\textbf{Sentiment}         &    -610.4254  &      361.077     &    -1.691  &         0.091        &    -1319.149    &       98.298     \\
+\textbf{actblz\_indicator} &    1061.3168  &     1200.831     &     0.884  &         0.377        &    -1295.677    &     3418.311     \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lclc}
+\textbf{Omnibus:}       & 225.551 & \textbf{  Durbin-Watson:     } &     0.709  \\
+\textbf{Prob(Omnibus):} &   0.000 & \textbf{  Jarque-Bera (JB):  } &   508.642  \\
+\textbf{Skew:}          &   1.454 & \textbf{  Prob(JB):          } & 3.55e-111  \\
+\textbf{Kurtosis:}      &   5.461 & \textbf{  Cond. No.          } &      29.2  \\
+\bottomrule
+\end{tabular}
+%\caption{OLS Regression Results}
+\end{center}
+
+Notes: \newline
+ [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.\end{document}
